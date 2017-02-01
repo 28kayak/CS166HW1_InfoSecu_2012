@@ -23,6 +23,7 @@ class Cipher
 
 
 
+
         return reuslt;
     }
     public String double_transposition()
@@ -32,5 +33,15 @@ class Cipher
 
 
         return result;
+    }
+
+    public static void main(String[] args){
+        //Retrieve the following command:
+        //java Chiper action cipher_text.txt process_to_text.txt
+        String action = args[0];
+        String ciper_text = args[1];
+        String textFile = args[2];
+
+
     }
 }

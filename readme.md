@@ -72,9 +72,12 @@ In addition, to Cipher.java and Classifier.java, I want you to prepare two text 
 
 To prepare these files, identify the first and last letter of the surname of the youngest member of your team.
 For me, Chris Pollett, this would be 'p' and 't'.
+
 Find Wikipedia articles beginning with these two letters. For example, http://en.wikipedia.org/wiki/Potato and http://en.wikipedia.org/wiki/Top_hat , then cut and paste these into either wiki_first.txt or wiki_last.txt, lower-case all letters, and strip all characters other than a through z.
 If the resulting file is less than 1 kilobyte choose a different Wikipedia article with that letter.
+
 To receive credit your classifier should be able to work on the two Wikipedia files you create.
+
 In addition, `two bonus points` will be awarded to the top three classifiers from amongst student submissions (this will be judged based on all the wikipedia files submitted).
 
 ##### reference
